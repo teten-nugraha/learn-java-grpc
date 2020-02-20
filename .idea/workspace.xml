@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4beaf6ee-0109-4843-afdd-8cdfbb682151" name="Default Changelist" comment="" />
+    <list default="true" id="4beaf6ee-0109-4843-afdd-8cdfbb682151" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/id/learn/client/GreetingClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +17,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -29,6 +36,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1Y1jgqYWNCJRqMnoYaJyl39q2AA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -36,6 +44,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="go.import.settings.migrated" value="true" />
@@ -44,7 +53,20 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.GreetingClient">
+    <configuration name="GreetingClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="id.learn.client.GreetingClient" />
+      <module name="belajar-grpc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="id.learn.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="GreetingServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="id.learn.server.GreetingServer" />
       <module name="belajar-grpc" />
@@ -60,6 +82,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GreetingClient" />
         <item itemvalue="Application.GreetingServer" />
       </list>
     </recent_temporary>
@@ -75,7 +98,7 @@
       <option name="presentableId" value="Default" />
       <updated>1582117108941</updated>
       <workItem from="1582117112448" duration="2810000" />
-      <workItem from="1582156762158" duration="1258000" />
+      <workItem from="1582156762158" duration="1687000" />
     </task>
     <servers />
   </component>
@@ -87,25 +110,29 @@
       <screen x="43" y="23" width="1637" height="1027" />
     </state>
     <state x="562" y="193" key="#Project_Structure/43.23.1637.1027@43.23.1637.1027" timestamp="1582157571922" />
-    <state width="1358" height="484" key="GridCell.Tab.0.bottom" timestamp="1582157946452">
+    <state width="1358" height="483" key="GridCell.Tab.0.bottom" timestamp="1582160318979">
       <screen x="43" y="23" width="1637" height="1027" />
     </state>
-    <state width="1358" height="484" key="GridCell.Tab.0.bottom/43.23.1637.1027@43.23.1637.1027" timestamp="1582157946452" />
-    <state width="1358" height="484" key="GridCell.Tab.0.center" timestamp="1582157946451">
+    <state width="1358" height="483" key="GridCell.Tab.0.bottom/43.23.1637.1027@43.23.1637.1027" timestamp="1582160318979" />
+    <state width="1358" height="483" key="GridCell.Tab.0.center" timestamp="1582160318978">
       <screen x="43" y="23" width="1637" height="1027" />
     </state>
-    <state width="1358" height="484" key="GridCell.Tab.0.center/43.23.1637.1027@43.23.1637.1027" timestamp="1582157946451" />
-    <state width="1358" height="484" key="GridCell.Tab.0.left" timestamp="1582157946451">
+    <state width="1358" height="483" key="GridCell.Tab.0.center/43.23.1637.1027@43.23.1637.1027" timestamp="1582160318978" />
+    <state width="1358" height="483" key="GridCell.Tab.0.left" timestamp="1582160318977">
       <screen x="43" y="23" width="1637" height="1027" />
     </state>
-    <state width="1358" height="484" key="GridCell.Tab.0.left/43.23.1637.1027@43.23.1637.1027" timestamp="1582157946451" />
-    <state width="1358" height="484" key="GridCell.Tab.0.right" timestamp="1582157946451">
+    <state width="1358" height="483" key="GridCell.Tab.0.left/43.23.1637.1027@43.23.1637.1027" timestamp="1582160318977" />
+    <state width="1358" height="483" key="GridCell.Tab.0.right" timestamp="1582160318978">
       <screen x="43" y="23" width="1637" height="1027" />
     </state>
-    <state width="1358" height="484" key="GridCell.Tab.0.right/43.23.1637.1027@43.23.1637.1027" timestamp="1582157946451" />
+    <state width="1358" height="483" key="GridCell.Tab.0.right/43.23.1637.1027@43.23.1637.1027" timestamp="1582160318978" />
     <state x="471" y="166" key="SettingsEditor" timestamp="1582157911496">
       <screen x="43" y="23" width="1637" height="1027" />
     </state>
     <state x="471" y="166" key="SettingsEditor/43.23.1637.1027@43.23.1637.1027" timestamp="1582157911496" />
+    <state width="500" height="445" key="SwitcherDM" timestamp="1582160243311">
+      <screen x="43" y="23" width="1637" height="1027" />
+    </state>
+    <state width="500" height="445" key="SwitcherDM/43.23.1637.1027@43.23.1637.1027" timestamp="1582160243311" />
   </component>
 </project>
